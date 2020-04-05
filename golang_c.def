@@ -1,0 +1,4 @@
+LIBRARY
+	EXPORTS
+		set_callback
+		call_callback
